@@ -14,7 +14,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 
 	<name>spring-boot-cache-management</name>
-	<description>A simple Spring Boot app showcasing how we can create our own endpoints to manage the cache</description>
+	<description>A simple Spring Boot app showcasing how we can create our own endpoints to manage the cache and get cache statistics</description>
 
 	<properties>
 		<java.version>17</java.version>
